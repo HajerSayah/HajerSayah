@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hajer Sayah
+AI Student | Umm Al-Qura University
+GPA: 3.93/4.0
+Mecca, Saudi Arabia
 
-<!--
-**HajerSayah/HajerSayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Machine Learning: Supervised Learning, Unsupervised Learning, Data Preprocessing, Model Evaluation, Feature Engineering, Deep Learning, Computer Vision 
+Programming: Python, SQL, Java
+Tools: WEKA, RapidMiner, Jupyter Notebook, Google Colab, Git, GitHub
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Imbalanced-learn
 
-Here are some ideas to get you started:
+Languages
+French (Native)
+Arabic (Fluent)
+English (Good)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+University-Project repository contains my academic work in ML and data analysis.
+
+Contact
+LinkedIn: linkedin.com/in/hajer-sayah
+Email: hsayah870@gmail.com
+GitHub: github.com/HajerSayah
