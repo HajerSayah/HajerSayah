@@ -7,8 +7,11 @@ Mecca, Saudi Arabia
 Skills
 
 Machine Learning: Supervised Learning, Unsupervised Learning, Data Preprocessing, Model Evaluation, Feature Engineering, Deep Learning, Computer Vision 
+
 Programming: Python, SQL, Java
+
 Tools: WEKA, RapidMiner, Jupyter Notebook, Google Colab, Git, GitHub
+
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Imbalanced-learn
 
 Languages
